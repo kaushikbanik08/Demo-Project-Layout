@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">POCPackage.javaServiceDemo.javaServiceWithSource</value>
+  <value name="is_public">false</value>
+  <value name="shared">c3RhdGljIEFycmF5TGlzdCA8U3RyaW5nPiBzdHJMaXN0PW5ldyBBcnJheUxpc3Q8U3RyaW5nPigp
+OwpzdGF0aWMgQXJyYXlMaXN0IDxTdHJpbmc+IGFkZExpc3Q9bmV3IEFycmF5TGlzdDxTdHJpbmc+
+KCk7CnN0YXRpYyBBcnJheUxpc3QgPFN0cmluZz4gb3V0TGlzdD1uZXcgQXJyYXlMaXN0PFN0cmlu
+Zz4oKTs=</value>
+  <value name="encodeutf8">true</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>java.util.ArrayList</value>
+  </array>
+</Values>
